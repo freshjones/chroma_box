@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- *Do not use any later versions than 2.4.12 due to [a bug in Phing](http://www.phing.info/trac/ticket/958)*. -->
-<project name="ellie_box" default="build" phingVersion="2.4.11">
+<project name="chroma_box" default="build" phingVersion="2.4.11">
 
 <!-- ## Main targets -->
 
